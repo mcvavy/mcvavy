@@ -3,7 +3,7 @@
 
 I'm a seasoned Software Engineer with a Bachelor's degree in Business Informatics and a Master's in Software Engineering. My professional journey is enriched by certifications as an Azure Developer Associate and an Azure Solutions Architect Expert. With extensive experience as a .NET developer, I excel in software design, architecture, DevOps, and GitOps. I'm also the creator and main contributor of: [gitopsdev.com](https://gitopsdev.com) and [codesrealm.com](https://codesrealm.com).
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcvavy&theme=shadow_red&show_icons=true)
+![](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
