@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Michael
 I'm a seasoned Software Engineer with a Bachelor's degree in Business Informatics and a Master's in Software Engineering. My professional journey is enriched by certifications as an Azure Developer Associate and an Azure Solutions Architect Expert. With extensive experience as a .NET developer, I excel in software design, architecture, DevOps, and GitOps. I'm also the creator and main contributor of: [gitopsdev.com](gitopsdev.com) and [codesrealm.com](codesrealm.com).
 
 <!--
